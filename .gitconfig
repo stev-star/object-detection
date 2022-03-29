@@ -1,0 +1,6 @@
+[user]
+	email = stpghk1998@gmail.com
+	name = Muruchi
+[core]
+	editor = code --wait
+	autocrlf = true
