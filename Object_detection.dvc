@@ -1,0 +1,5 @@
+outs:
+- md5: 62080fd1122f199cb6d304312e28e7bb.dir
+  size: 93019591
+  nfiles: 2
+  path: Object_detection
